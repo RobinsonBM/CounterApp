@@ -11,7 +11,9 @@ exports[`Pruebas en CounterApp Debe de hacer martch con el snapshot 1`] = `
   <button>
     +1
   </button>
-  <button>
+  <button
+    aria-label="btn-reset"
+  >
     Reset
   </button>
   <button>
